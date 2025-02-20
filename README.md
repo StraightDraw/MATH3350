@@ -1,7 +1,8 @@
 # MATH3350
-MATH 3350 Probability and Statistics
+Probability and Statistics
 
-Interactive Notes and Assignments 
+Interactive Notes and Assignments for UNG Course
+
 
 University of North Georgia
 
